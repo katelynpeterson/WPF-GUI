@@ -7,10 +7,12 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <TextBox 
+        <TextBlock 
             Text="Hello World!"
             HorizontalAlignment="Center"
             VerticalAlignment="Center"
-            FontSize="30"/>
+            FontSize="30"
+            FontFamily="Cambria"
+            FontStyle="Italic"/>
     </Grid>
 </Window>
